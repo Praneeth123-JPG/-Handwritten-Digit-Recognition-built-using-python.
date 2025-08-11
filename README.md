@@ -1,2 +1,2 @@
 # -Handwritten-Digit-Recognition-built-using-python.
-Here’s a short description under 350 characters for your code:  **A Python Tkinter-based GUI for text recognition that lets users draw text or upload images. Uses EasyOCR with a pre-trained model to process and recognize handwritten or printed text, with options to adjust marker size, clear the canvas, and view results in a scrollable text box.**
+  **A Python Tkinter-based GUI for text recognition that lets users draw text or upload images. Uses EasyOCR with a pre-trained model to process and recognize handwritten or printed text, with options to adjust marker size, clear the canvas, and view results in a scrollable text box.**
